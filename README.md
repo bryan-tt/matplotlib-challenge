@@ -11,14 +11,14 @@ The executive team has tasked you with generating all of the tables and figures 
 - Merging two dataframes
     - Inner, Outer, Left
 - Cleaning duplicate data
-    - <dataframe>.duplicated()
+    - `<dataframe>.duplicated()`
 - Group By with agg
 - Plotting with Pandas
 - Plotting with PyPlot
     - Bar Graph
     - Pie Chart
     - Box plot
-    - Multiplots (plt.subplot())
+    - Multiplots (`plt.subplot()`)
     - Line plot
     - Scatter plot
 - Outliers
